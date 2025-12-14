@@ -15,7 +15,7 @@ html {
 }
 
 .splash {
-  max-width: 100%;
+  max-inline-size: 100%;
 }
 
 .hard {
