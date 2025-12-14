@@ -17,5 +17,11 @@ html {
   text-align: right;
 }
 
+.intro {
+  display: grid;
+  grid-template: repeat(4, 250px) / repeat(2, 800px);
+  justify-self: center;
+}
+
 
 
