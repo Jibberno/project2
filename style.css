@@ -11,7 +11,6 @@ html {
 }
 
 nav {
-  display: flex;
   justify-content: space-between; 
 }
 
@@ -20,7 +19,7 @@ nav a{
   text-align: right;
   text-decoration: none; 
   color: white; 
-  font-size: 2rem; 
+  font-size: 1.2rem; 
   padding-inline-end: 20px;
 }
 
@@ -29,7 +28,7 @@ a:hover {
 }
 
 navi {
-  display: flex;
+  display: flex
 }
 
 nav h1 {
