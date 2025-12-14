@@ -85,6 +85,20 @@ h2{
   gap: 60px;
 }
 
+.middle {
+  display: grid;
+  grid-template: repeat(2, 680px) / repeat(1, 690px);
+  justify-self: center;
+  gap: 60px;
+}
+
+.final {
+  display: grid;
+  grid-template: repeat(2, 680px) / repeat(1, 690px);
+  justify-self: center;
+  gap: 60px;
+}
+
 .img1 {
   background-color: red;
   background-image: url("assets/receivers.jpg");
