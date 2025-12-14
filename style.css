@@ -12,20 +12,41 @@ html {
 
 nav {
   display: flex;
+  justify-content: space-between; 
+}
+
+nav a{
+  padding: 20px; 
+  text-align: right;
+  text-decoration: none; 
+  color: white; 
+  font-size: 2rem; 
+  padding-inline-end: 20px;
+  padding: 20px;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 navi {
-  justify-self:
+  display: flex;
 }
 
 nav h1 {
+  font: impact;
   color: #ffcc00;
   -webkit-text-stroke: black 2px;;
+  padding: 0px 0px 0px 20px;
 }
 
 nav h3 {
-  color: #black;
-  -webkit-text-stroke: #ffcc00 2px;;
+  font-size:40px;
+  position: absolute;
+  color: black;
+  -webkit-text-stroke: #ffcc00 1px;;
+  left: 120px;
+  top: 30px;
 }
 
 .headline {
