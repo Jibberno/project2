@@ -15,7 +15,11 @@ html {
 }
 
 .splash {
-  max-inline-size: 100%;
+  height: 1200px;
+  width: auto;
+  background-image: url("assets/lead_ultrasharp.png");
+  background-size: cover;
+  background-position: center;
 }
 
 .hard {
