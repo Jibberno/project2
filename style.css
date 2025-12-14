@@ -27,7 +27,7 @@ html {
 
 .intro {
   display: grid;
-  grid-template: repeat(4, 250px) / repeat(2, 800px);
+  grid-template: repeat(8, 250px) / repeat(2, 800px);
   justify-self: center;
 }
 
