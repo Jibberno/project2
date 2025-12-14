@@ -14,6 +14,10 @@ html {
   position:relative
 }
 
+.splash {
+  max-width: 100%;
+}
+
 .hard {
   position: absolute;
   font-family: turret road, 'Times New Roman', Times, serif;
