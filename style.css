@@ -153,3 +153,16 @@ h2{
   flex-direction: row;
   justify-content: space-around;
 }
+
+.Sources a{
+  color: white;
+  text-decoration: none;
+}
+.Sources a:hover{
+  color: white;
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 480px) {
+
+}
