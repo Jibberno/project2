@@ -15,24 +15,35 @@ html {
 }
 
 .hard {
+  position: absolute;
   font-family: turret road, 'Times New Roman', Times, serif;
   font-size: 120px;
   font-weight: 800;
   text-align: right;
+  top: 0px;
+  right: 100px;
 }
 
 .cal {
+  position: absolute;
   font-family: turret road, times-new-roman;
-  font-size: 120px;
+  font-size: 240px;
   font-weight: 800;
   color: red;
   text-align: right;
+  top: -40px;
+  right: 100px;
 }
 
 .hook {
+  position: absolute;
   font-family: oswald, 'Times New Roman', Times, serif;
+  font-size: 32px;
   font-weight: 400;
   text-align: right;
+  width: 600px;
+  top: 400px;
+  right: 100px;
 }
 
 h2{
