@@ -27,7 +27,10 @@ a:hover {
   text-decoration: underline;
 }
 
-
+h2 {
+  text-align:center;
+  margin: 30px;
+}
 
 navi {
   display: flex
