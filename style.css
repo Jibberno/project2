@@ -22,7 +22,6 @@ nav a{
   color: white; 
   font-size: 2rem; 
   padding-inline-end: 20px;
-  padding: 20px;
 }
 
 a:hover {
@@ -38,6 +37,7 @@ nav h1 {
   color: #ffcc00;
   -webkit-text-stroke: black 2px;;
   padding: 0px 0px 0px 20px;
+  margin: 0px
 }
 
 nav h3 {
@@ -46,7 +46,7 @@ nav h3 {
   color: black;
   -webkit-text-stroke: #ffcc00 1px;;
   left: 120px;
-  top: 30px;
+  top: 0px;
 }
 
 .headline {
