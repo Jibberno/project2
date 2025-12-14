@@ -17,6 +17,14 @@ html {
   text-align: right;
 }
 
+.cal {
+  font-family: turret road, times-new-roman;
+  font-size: 120px;
+  font-weight: 800;
+  color: red;
+  text-align: right;
+}
+
 .intro {
   display: grid;
   grid-template: repeat(4, 250px) / repeat(2, 800px);
