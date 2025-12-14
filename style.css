@@ -11,7 +11,7 @@ html {
 }
 
 .hard {
-  font-family: turret road, times-new-roman;
+  font-family: turret road, 'Times New Roman', Times, serif;
   font-size: 120px;
   font-weight: 800;
   text-align: right;
@@ -25,9 +25,15 @@ html {
   text-align: right;
 }
 
+h2{
+  font-family: oswald, 'Times New Roman', Times, serif;
+  font-size: 65px;
+  font-weight: 800;
+}
+
 .intro {
   display: grid;
-  grid-template: repeat(8, 250px) / repeat(2, 800px);
+  grid-template: repeat(4, 500px) / repeat(2, 690px);
   justify-self: center;
 }
 
