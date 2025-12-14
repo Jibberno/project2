@@ -10,7 +10,12 @@ html {
   font-size: 16pt;
 }
 
-
+.headline {
+  font-family: turret road, times-new-roman;
+  font-size: 120px;
+  font-weight: 800;
+  text-align: right;
+}
 
 
 
