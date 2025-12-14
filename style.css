@@ -164,5 +164,67 @@ h2{
 }
 
 @media only screen and (max-width: 480px) {
+  .hard {
+  position: absolute;
+  font-family: turret road, 'Times New Roman', Times, serif;
+  font-size: 80px;
+  font-weight: 800;
+  text-align: center;
+  top: -60px;
+  right: 30px;
+}
 
+.cal {
+  position: absolute;
+  font-family: turret road, times-new-roman;
+  font-size: 180px;
+  font-weight: 800;
+  color: red;
+  text-align: center;
+  top: 2px;
+  right: 30px;
+}
+
+.hook {
+  position: absolute;
+  font-family: oswald, 'Times New Roman', Times, serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-align: center;
+  width: 350px;
+  top: 350px;
+  right: 30px;
+}
+.splash {
+  height: 1000px;
+  width: auto;
+  background-image: url("assets/lead_ultrasharp.png");
+  background-size: cover;
+  background-position: 25%;
+  opacity:25%;
+}
+
+.intro {
+  display: grid;
+  grid-template: repeat(8, 580px) / repeat(1, 400px);
+  justify-self: center;
+  gap: 60px;
+}
+.middle{
+  margin: 30px 30px 30px;
+  justify-self: center;
+}
+
+.final {
+  margin: 30px 40px 30px;
+  justify-self: center;
+}
+
+.Sources{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 40px;
+  text-align: center;
+}
 }
