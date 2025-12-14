@@ -37,5 +37,32 @@ h2{
   justify-self: center;
 }
 
+.img1 {
+  background-color: red;
+  background-image: url("assets/grip.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.img2 {
+  background-color: red;
+  background-image: url("assets/rail.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.img3 {
+  background-color: red;
+  background-image: url("assets/receivers.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.img4 {
+  background-color: red;
+  background-image: url("assets/stock-cropped.jpg");
+  background-size: cover;
+  background-position: center;
+}
 
 
