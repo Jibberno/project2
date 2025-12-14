@@ -27,9 +27,7 @@ a:hover {
   text-decoration: underline;
 }
 
-body h2 {
-  margin: 30px 550px 30px;
-}
+
 
 navi {
   display: flex
@@ -110,12 +108,12 @@ h2{
 }
 
 .middle{
-  margin: 30px 550px 30px;
+  margin: 30px 400px 30px;
   justify-self: center;
 }
 
 .final {
-  margin: 30px 550px 30px;
+  margin: 30px 400px 30px;
   justify-self: center;
 }
 
