@@ -39,21 +39,21 @@ h2{
 
 .img1 {
   background-color: red;
-  background-image: url("assets/grip.jpg");
+  background-image: url("assets/receivers.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .img2 {
   background-color: red;
-  background-image: url("assets/rail.jpg");
+  background-image: url("assets/bolt.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: left;
 }
 
 .img3 {
   background-color: red;
-  background-image: url("assets/receivers.jpg");
+  background-image: url("assets/grip.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -64,5 +64,3 @@ h2{
   background-size: cover;
   background-position: center;
 }
-
-
