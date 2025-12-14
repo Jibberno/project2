@@ -10,6 +10,10 @@ html {
   font-size: 16pt;
 }
 
+.headline {
+  position:relative
+}
+
 .hard {
   font-family: turret road, 'Times New Roman', Times, serif;
   font-size: 120px;
