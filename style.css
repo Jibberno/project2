@@ -10,6 +10,24 @@ html {
   font-size: 16pt;
 }
 
+nav {
+  display: flex;
+}
+
+navi {
+  justify-self:
+}
+
+nav h1 {
+  color: #FFFF00;
+  -webkit-text-stroke: black 2px;;
+}
+
+nav h3 {
+  color: #black;
+  -webkit-text-stroke: #FFFF00 2px;;
+}
+
 .headline {
   position:relative
 }
