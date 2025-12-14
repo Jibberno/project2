@@ -28,8 +28,8 @@ html {
   font-size: 120px;
   font-weight: 800;
   text-align: right;
-  top: 0px;
-  right: 0px;
+  top: -60px;
+  right: 30px;
 }
 
 .cal {
@@ -39,8 +39,8 @@ html {
   font-weight: 800;
   color: red;
   text-align: right;
-  top: -40px;
-  right: 0px;
+  top: -105px;
+  right: 30px;
 }
 
 .hook {
@@ -49,9 +49,9 @@ html {
   font-size: 32px;
   font-weight: 400;
   text-align: right;
-  width: 600px;
-  top: 400px;
-  right: 0px;
+  width: 650px;
+  top: 350px;
+  right: 30px;
 }
 
 h2{
