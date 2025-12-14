@@ -25,6 +25,12 @@ html {
   text-align: right;
 }
 
+.hook {
+  font-family: oswald, 'Times New Roman', Times, serif;
+  font-weight: 400;
+  text-align: right;
+}
+
 h2{
   font-family: oswald, 'Times New Roman', Times, serif;
   font-size: 65px;
