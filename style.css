@@ -64,6 +64,7 @@ h2{
   display: grid;
   grid-template: repeat(4, 680px) / repeat(2, 690px);
   justify-self: center;
+  gap: 60px;
 }
 
 .img1 {
